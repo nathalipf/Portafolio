@@ -45,8 +45,8 @@ const Services = () => {
                             </li>
 
                         </ul>
+                    </div>
                 </div>
-            </div>
             </div>
 
             <div className="services__content">
@@ -86,8 +86,8 @@ const Services = () => {
                             </li>
 
                         </ul>
+                    </div>
                 </div>
-            </div>
             </div>
 
             <div className="services__content">
@@ -127,8 +127,8 @@ const Services = () => {
                             </li>
 
                         </ul>
+                    </div>
                 </div>
-            </div>
             </div>
         </div>
     </section>
