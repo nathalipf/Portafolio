@@ -1,4 +1,5 @@
 import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -30,7 +31,7 @@ const Footer = () => {
           <a
             href="https://www.facebook.com/"
             className="footer__social-link"
-            target="_blank" rel="noopener noreferrer"
+            target="_blank"
           >
             <i class="bx bxl-facebook"></i>
           </a>
@@ -38,7 +39,7 @@ const Footer = () => {
           <a
             href="https://www.instagram.com/"
             className="footer__social-link"
-            target="_blank" rel="noopener noreferrer"
+            target="_blank"
           >
             <i class="bx bxl-instagram"></i>
           </a>
@@ -46,7 +47,7 @@ const Footer = () => {
           <a
             href="https://www.twitter.com/"
             className="footer__social-link"
-            target="_blank" rel="noopener noreferrer"
+            target="_blank"
           >
             <i class="bx bxl-twitter"></i>
           </a>
